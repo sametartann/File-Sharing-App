@@ -1,0 +1,9 @@
+In this project, Windows operating system platform was used.
+Pycharm application was used and the code was tested with Python 3.9.
+
+Some errors encountered during implemention are:
+- Winerror 10600
+- Time request error
+- Firewall error to connect Hamachi
+- Json format errors
+- Socket connection errors
