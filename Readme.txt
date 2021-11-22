@@ -1,4 +1,4 @@
-A peer to peer file sharing application for Computer Networks project.
+A peer to peer file sharing application for Computer Networks project. (20 May 2021)
 This python program works with 4 processes: ChunkAnnouncer, ContentDiscovery, DownloadChunk and UploadChunk.
 
 The file that will be transferred should be inside the python project file.
